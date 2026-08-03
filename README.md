@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sruthy Denny 👋
 
-<!--
-**sruthydenny/sruthydenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Computer Systems (Riga, Latvia)
 
-Here are some ideas to get you started:
+💻 Software Developer with 1 year of experience in:
+- C#
+- ASP.NET
+- SQL Server
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- ASP.NET Core
+- Entity Framework Core
+- Git & GitHub
+- Python
+- Artificial Intelligence
+
+🚀 My Goal
+To become a Full Stack .NET Developer and AI Engineer.
+
+📫 Email:
+sruthydenny21@gmail.com
