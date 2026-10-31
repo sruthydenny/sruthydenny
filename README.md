@@ -1,109 +1,247 @@
-# 👋 Hi, I'm Sruthy Denny!
+<!--
+  SRUTHY DENNY | NEON CYBERPUNK GITHUB PROFILE
+  Repository: sruthydenny/sruthydenny
+-->
 
-<h3 align="center">Software Developer | Computer Systems Master's Student | Aspiring AI Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+with+.NET+and+Python;Exploring+Artificial+Intelligence;Turning+ideas+into+solutions" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:6A00F5,100:00E5FF&height=220&section=header&text=SRUTHY%20DENNY&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=16&animation=twinkling" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+universe;Building+intelligent+applications;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+reality+%E2%9A%A1" />
 
-## 💫 About Me
+<br/>
 
-- 🎓 Master's student in **Computer Systems**, based in Riga, Latvia.
-- 💻 Software Developer with 1 year of experience.
-- 🌱 Currently exploring **ASP.NET Core, Entity Framework Core, Python and AI**.
-- 🚀 Passionate about building scalable applications and intelligent software solutions.
-- 🎯 My goal is to become a **Full-Stack .NET Developer and AI Engineer**.
-- 💡 Always curious, always learning, always building!
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/sruthydenny)
+[![Profile Views](https://komarev.com/ghpvc/?username=sruthydenny&style=for-the-badge&color=6A00F5&label=PROFILE+VISITORS)](https://github.com/sruthydenny)
 
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages & Web Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Frameworks & Database
-
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
-
-### Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🤖 [OpsPilot](https://github.com/sruthydenny/opspilot)
+## `01` - WHO AM I?
 
-An Agentic AI platform for intelligent DevOps operations.
+### <span style="color:#00E5FF">Building the future, one commit at a time.</span>
 
-- Incident investigation and analysis.
-- CI/CD automation.
-- Safe remediation workflows.
-- AI-powered DevOps operations.
+</div>
 
-**Tech:** Python, Agentic AI
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 👨‍💼 [Employee Management System](https://github.com/sruthydenny/Employee-Management-System)
+```yaml
+name: Sruthy Denny
+role: Software Developer
+location: Riga, Latvia
+education: Master's in Computer Systems
 
-An employee management application built to manage employee information and organizational workflows.
+interests:
+  - Software Engineering
+  - Artificial Intelligence
+  - Full-Stack Development
+  - Intelligent Automation
 
-- Developed using ASP.NET Core MVC.
-- SQL Server database integration.
-- Web-based employee management.
+currently_learning:
+  - ASP.NET Core
+  - Entity Framework Core
+  - Python
+  - Artificial Intelligence
 
-**Tech:** ASP.NET Core MVC, SQL Server
+2026_goal: >
+  Become a Full-Stack .NET Developer
+  and AI Engineer.
+```
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+### <span style="color:#00E5FF">CODE. CREATE. INNOVATE.</span>
+
+*Curiosity drives me. Code empowers me.*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sruthydenny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthydenny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+## `02` - TECH ARSENAL
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sruthydenny&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+*Technologies I use and explore*
 
----
+### PROGRAMMING & WEB
 
-## 🤝 Let's Connect!
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,python&theme=dark" />
 
-<p align="center">
-  <a href="mailto:sruthydenny21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sruthydenny">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### DATABASE & TOOLS
+
+<img src="https://skillicons.dev/icons?i=mssql,git,github,vscode,visualstudio&theme=dark" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>✨ "Learning, building, and growing one commit at a time!" ✨</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sruthydenny&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
-</p>
+## `03` - FEATURED PROJECTS
+
+*Ideas transformed into working solutions.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 OpsPilot
+
+<img src="https://img.shields.io/badge/AI-AGENTIC%20DEVOPS-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+An Agentic AI platform designed to make DevOps operations smarter through intelligent incident investigation and CI/CD automation.
+
+**Highlights**
+- AI-powered incident analysis
+- DevOps workflow automation
+- Intelligent remediation workflows
+
+**Technology**
+
+`Python` `Agentic AI`
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sruthydenny/opspilot)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 👩‍💻 Employee Management System
+
+<img src="https://img.shields.io/badge/WEB%20APP-.NET-6A00F5?style=for-the-badge"/>
+
+</div>
+
+A web-based employee management application built with ASP.NET Core MVC and SQL Server.
+
+**Highlights**
+- Employee information management
+- Database integration
+- MVC-based application architecture
+
+**Technology**
+
+`C#` `ASP.NET Core MVC` `SQL Server`
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/EXPLORE_PROJECT-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sruthydenny/Employee-Management-System)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `04` - GITHUB ANALYTICS
+
+*Numbers tell a story. Every contribution is part of mine.*
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sruthydenny&show_icons=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=8A2BE2&text_color=FFFFFF&ring_color=00E5FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthydenny&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sruthydenny&hide_border=true&background=050505&ring=00E5FF&fire=8A2BE2&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `05` - CONTRIBUTION MATRIX
+
+*Consistency is the real superpower.*
+
+<img src="https://ghchart.rshah.org/00E5FF/sruthydenny" alt="Sruthy's GitHub contribution chart" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `06` - CURRENT MISSION
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=Mastering+ASP.NET+Core;Exploring+Entity+Framework+Core;Learning+Python+%26+AI;Building+intelligent+software+solutions" />
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⚡
+**BUILD**
+
+<sub>Practical software solutions</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🧠
+**LEARN**
+
+<sub>AI and emerging technologies</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🚀
+**GROW**
+
+<sub>One project at a time</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `07` - CONNECT WITH ME
+
+### <span style="color:#00E5FF">Have an idea? Let's build something amazing.</span>
+
+<a href="https://github.com/sruthydenny">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6A00F5,100:050505&height=120&section=footer"/>
+
+**`console.log("Thanks for visiting my profile!");`**
+
+<sub>Designed by Sruthy Denny</sub>
+
+</div>
